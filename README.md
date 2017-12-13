@@ -11,3 +11,6 @@
 - Node.js: https://nodejs.org/en/download/
 - Git: https://git-scm.com/downloads
 - Git Extensions: http://gitextensions.github.io/
+- SublimeText: http://www.sublimetext.com/?ref=stackshare
+- npm: https://www.npmjs.com/?ref=stackshare
+- gulp: https://gulpjs.com/?ref=stackshare
