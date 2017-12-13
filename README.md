@@ -6,7 +6,7 @@
 - ColorPic: http://www.iconico.com/colorpic/
 - ShareX: https://getsharex.com/downloads/
 
-# Development Tools
+## Development Tools
 - Visual Studio Code: https://code.visualstudio.com/
 - Node.js: https://nodejs.org/en/download/
 - Git: https://git-scm.com/downloads
@@ -33,3 +33,9 @@
 - HtmlSnippetPack: https://github.com/madskristensen/HtmlSnippetPack
 - CodeMaid: http://www.codemaid.net/
 - Resharper: http://www.jetbrains.com/resharper/?fromMenu
+- CoCo: https://marketplace.visualstudio.com/items?itemName=GeorgeAleksandria.CoCo-19226
+
+## Project Starters
+- Angular2VisualStudioTemplate: https://marketplace.visualstudio.com/items?itemName=Mino.Angular2VisualStudioTemplate
+- Vue.js Pack 2017: https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VuejsPack-18329
+- Sidewaffle Creator (2017): https://marketplace.visualstudio.com/items?itemName=Sayed-Ibrahim-Hashimi.SidewaffleCreator2017
