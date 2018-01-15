@@ -39,3 +39,7 @@
 - Angular2VisualStudioTemplate: https://marketplace.visualstudio.com/items?itemName=Mino.Angular2VisualStudioTemplate
 - Vue.js Pack 2017: https://marketplace.visualstudio.com/items?itemName=MadsKristensen.VuejsPack-18329
 - Sidewaffle Creator (2017): https://marketplace.visualstudio.com/items?itemName=Sayed-Ibrahim-Hashimi.SidewaffleCreator2017
+
+## Git Branching Strategies
+- A successful Git branching model: http://nvie.com/posts/a-successful-git-branching-model/ vs.
+- A succesful Git branching model considered harmful: https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
