@@ -43,3 +43,8 @@
 ## Git Branching Strategies
 - A successful Git branching model: http://nvie.com/posts/a-successful-git-branching-model/ **vs.**
 - A succesful Git branching model considered harmful: https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/
+
+## Useful JavaScript Libraries
+- Bunch of useful filters for AngularJS: https://github.com/a8m/angular-filter
+- Moment.js (Parse, validate, manipulate, and display dates and times): http://momentjs.com/docs/
+- Lodash (A modern JavaScript utility library delivering modularity, performance & extras): https://lodash.com/docs/4.17.4
